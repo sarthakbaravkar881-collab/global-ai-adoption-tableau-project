@@ -1,0 +1,5 @@
+subscriber_id,username,email,plan_type,monthly_watch_hours,account_status
+101,Neo_Matrix,neo@zion.net,Premium,145,Active
+102,Trinity_Ops,trinity@zion.net,Premium,110,Active
+103,Morpheus_Captain,morpheus@nebuchadnezzar.com,Standard,80,Active
+104,Cypher_Traitor,cypher@matrix.com,Basic,15,Suspended
